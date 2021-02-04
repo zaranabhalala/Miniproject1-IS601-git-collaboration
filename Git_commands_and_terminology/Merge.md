@@ -5,4 +5,8 @@ Git merge will combine multiple sequences of commits into one unified history. I
 
 Say we have a new branch feature that is based off the master branch. We now want to merge this feature branch into master.
 
+![](Before_merge.png)
+
 Invoking this command will merge the specified branch feature into the current branch, we'll assume master. Git will determine the merge algorithm automatically.
+
+![](After_merge.png)
