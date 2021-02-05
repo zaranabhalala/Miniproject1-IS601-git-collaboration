@@ -5,4 +5,4 @@
 
 ## Assigned Task:
 ### 2. Zarana Bhalala
-* Explanation of [gitFlow](../GitFlow.md)
+* Explanation of [gitFlow](./GitFlow/GitFlow.md)
