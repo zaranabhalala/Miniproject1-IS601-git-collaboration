@@ -7,7 +7,6 @@
 ### 2. Zarana Bhalala
 * Explanation of [gitFlow](./GitFlow/GitFlow.md)
 * Git commands and terminology:
-
  - [Repository](./Git_commands_and_terminology/Repository.md)
  - [Clone](./Git_commands_and_terminology/Clone.md)
  - [Fork](./Git_commands_and_terminology/Fork.md)
@@ -20,3 +19,8 @@
  - [Remote Add / Remove / Show](./Git_commands_and_terminology/Remote.md)
  - [Status](./Git_commands_and_terminology/Status.md)
  - [Master branch](./Git_commands_and_terminology/Master_branch.md)
+
+Useful resources:
+* https://www.atlassian.com/git/tutorials
+* https://guides.github.com/introduction/git-handbook/
+* https://guides.github.com/features/mastering-markdown/
