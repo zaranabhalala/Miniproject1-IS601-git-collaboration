@@ -6,7 +6,7 @@
 ## Assigned Task:
 
 ### 1. Jay Sorathiya
-* Explaining how the usage of Git, Docker, Automated testing, and Continuous Integration can improve the productivity and competitiveness of a company
+* Explaining how the usage of some [Developer Tools](./Developer-Tools.md) like Git, Docker, Automated testing, and Continuous Integration can improve the productivity and competitiveness of a company
 * [Git-Usage](./Git-Usage.md)
 * [Importance of Docker](./Importance-of-Docker.md)
 * [Automated Testing](./Automated-Testing.md)
