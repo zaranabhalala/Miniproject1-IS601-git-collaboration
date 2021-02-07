@@ -7,10 +7,10 @@
 
 ### 1. Jay Sorathiya
 * Explaining how the usage of Git, Docker, Automated testing, and Continuous Integration can improve the productivity and competitiveness of a company
-* Git-Usage [Git-Usage](./Git-Usage.md)
-* Importance-of-Docker [Importance of Docker](./Importance-of-Docker.md)
-* Automated-Testing [Automated Testing](./Automated-Testing.md)
-* Continuous-Integration [Continuous-Integration](./Continuous-Integration.md)
+* [Git-Usage](./Git-Usage.md)
+* [Importance of Docker](./Importance-of-Docker.md)
+* [Automated Testing](./Automated-Testing.md)
+* [Continuous-Integration](./Continuous-Integration.md)
 
 Useful resources:
 * https://guide.quickscrum.com/git-guide/
