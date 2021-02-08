@@ -14,14 +14,6 @@
 * [Automated Testing](./Automated-Testing.md)
 * [Continuous-Integration](./Continuous-Integration.md)
 
-Useful resources:
-* https://guide.quickscrum.com/git-guide/
-* https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/
-* https://medium.com/@dgifani/git-essential-for-productivity-fafefffb9e58
-* https://smartbear.com/solutions/automated-testing/
-* https://nevercode.io/blog/what-is-continuous-integration-and-how-to-benefit-from-it/
-* https://www.infoworld.com/article/3310941/why-you-should-use-docker-and-containers.html
-
 
 ### 2. Zarana Bhalala
 * Explanation of [gitFlow](./GitFlow/GitFlow.md)
@@ -43,3 +35,12 @@ Useful resources:
 * https://www.atlassian.com/git/tutorials
 * https://guides.github.com/introduction/git-handbook/
 * https://guides.github.com/features/mastering-markdown/
+* https://guide.quickscrum.com/git-guide/
+* https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/
+* https://medium.com/@dgifani/git-essential-for-productivity-fafefffb9e58
+* https://smartbear.com/solutions/automated-testing/
+* https://nevercode.io/blog/what-is-continuous-integration-and-how-to-benefit-from-it/
+* https://www.infoworld.com/article/3310941/why-you-should-use-docker-and-containers.html
+
+
+### [Change-Log](./Changelog.md)
