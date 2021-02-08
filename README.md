@@ -1,23 +1,5 @@
 # Miniproject1-IS601-git-collaboration
 # Contributors:
-1. [Jay Sorathiya](https://github.com/JaySRT)
-2. [Zarana Bhalala](https://github.com/zaranabhalala)
-
-## Assigned Task:
-
-### 1. Jay Sorathiya
-* Explaining how the usage of some [Developer Tools](./Developer-Tools.md) like Git, Docker, Automated testing, and Continuous Integration can improve the productivity and competitiveness of a company
-* [Git-Usage](./Git-Usage.md)
-* [Importance of Docker](./Importance-of-Docker.md)
-* [Automated Testing](./Automated-Testing.md)
-* [Continuous-Integration](./Continuous-Integration.md)
-
-Useful resources:
-* https://guide.quickscrum.com/git-guide/
-* https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/
-* https://medium.com/@dgifani/git-essential-for-productivity-fafefffb9e58
-
-
 ### 2. Zarana Bhalala
 * Explanation of [gitFlow](./GitFlow/GitFlow.md)
 * Git commands and terminology:
