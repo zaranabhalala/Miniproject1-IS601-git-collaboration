@@ -26,7 +26,7 @@ An automated testing tool is able to playback pre-recorded and predefined action
 
 Continuous integration (CI) is the software development practice of regularly integrating code changes into a shared code repository. Typically, this would happen at least once or then several times a day (depending on the number of code commits) and this practice encourages committing small changes more often over committing large changes infrequently. Each commit triggers a build during which tests are run that help to identify if anything was broken by the changes.
 
-![Continuous-Integration](/Images/Continuous Integration.png)
+![Continuous-Integration](/Images/Continuous-Integration.png)
 
 **DevOps environment in a nutshell**
 
