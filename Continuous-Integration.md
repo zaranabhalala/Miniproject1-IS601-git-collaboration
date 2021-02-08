@@ -15,4 +15,5 @@ CI makes software development easier, faster, and less risky for developers. By 
 
 - Change failure rate: Early automated testing greatly reduced the number of defects that make their way out to production.
 
-GitLab CI/CD comes built-in to GitLab's complete DevOps platform delivered as a single application. There's no need to cobble together multiple tools and users get a seamless experience out-of-the-box.
+
+![](/Images/what-is-CI.png)
