@@ -15,6 +15,7 @@ Knowing your everyday tool set increases your productivity as a developer. And *
 ![Docker Containers](/Images/Docker-Container.png)
 
 **Automated Testing**
+
 Every software development group tests its products, yet delivered software always has defects. Test engineers strive to catch them before the product is released but they always creep in and they often reappear, even with the best manual testing processes. Test Automation software is the best way to increase the effectiveness, efficiency and coverage of your software testing.
 
 ![Automated Testing](/Images/Automated-Testing.jpg)
@@ -22,10 +23,11 @@ Every software development group tests its products, yet delivered software alwa
 An automated testing tool is able to playback pre-recorded and predefined actions, compare the results to the expected behavior and report the success or failure of these manual tests to a test engineer. Once automated tests are created they can easily be repeated and they can be extended to perform tasks impossible with manual testing. Because of this, savvy managers have found that automated software testing is an essential component of successful development projects.
 
 **Continuous integration**
+
 Continuous integration (CI) is the software development practice of regularly integrating code changes into a shared code repository. Typically, this would happen at least once or then several times a day (depending on the number of code commits) and this practice encourages committing small changes more often over committing large changes infrequently. Each commit triggers a build during which tests are run that help to identify if anything was broken by the changes.
 
-![Continous Integration](/Images/Continuous Integration.png)
-
+![Automated Testing](/Images/Continuous Integration.png)
 
 **DevOps environment in a nutshell**
+
 ![DevOps Environment in a nutshell](/Images/DevOps.png)
