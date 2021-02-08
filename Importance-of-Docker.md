@@ -1,6 +1,6 @@
 ## Why Docker is so important?
 
-![Github Logo](/images/Docker.jpg)
+![](/Images/Docker.jpg)
 
 The Docker goal is to ease the creation, deploy and the delivery of an application using the so called Containers. The Docker **Containers** allow the developer/sysadmin to bundle an application with all needed components (libraries and other resources) and to deliver it as an independent and single package.
 
