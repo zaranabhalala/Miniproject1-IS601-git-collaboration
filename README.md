@@ -1,12 +1,9 @@
 # Miniproject1-IS601-git-collaboration
-1. [Jay Sorathiya](https://github.com/JaySRT)
-2. [Zarana Bhalala](https://github.com/zaranabhalala)
 
 ## Contributors:
-=======
-1. Jay Sorathiya
-2. Zarana Bhalala
 
+1. [Jay Sorathiya](https://github.com/JaySRT)
+2. [Zarana Bhalala](https://github.com/zaranabhalala)
 
 ## Assigned Task:
 
